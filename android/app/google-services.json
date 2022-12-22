@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959991406280",
+    "project_id": "freshboly",
+    "storage_bucket": "freshboly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959991406280:android:533c0df57ed12e2167cffd",
+        "android_client_info": {
+          "package_name": "com.freshBoly.freshbasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959991406280-tea2kbe6nb467nf15dnmp0uiv148sd5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2cnnD_2jp9kjEWQp6Ad9q-7-HT8687Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959991406280-tea2kbe6nb467nf15dnmp0uiv148sd5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
